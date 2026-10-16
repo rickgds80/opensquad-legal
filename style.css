@@ -1,0 +1,6 @@
+body { margin: 0; background: #0d0914; color: #e8e6f0; font-family: 'Segoe UI', system-ui, sans-serif; line-height: 1.6; }
+main { max-width: 760px; margin: 0 auto; padding: 48px 20px; }
+h1 { background: linear-gradient(90deg, #00f0ff, #a855f7); -webkit-background-clip: text; background-clip: text; color: transparent; }
+h2 { color: #c084fc; margin-top: 28px; }
+a { color: #00f0ff; }
+code { background: rgba(255,255,255,0.08); padding: 2px 6px; border-radius: 4px; }
